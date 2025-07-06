@@ -1,0 +1,2 @@
+AIM - The aim of this project is to develop a real-time, automated dam water level sensing and alert system using microcontroller-based technology and water level sensors.
+RESULTS - The Arduino-based dam water level sensing and alert system was successfully implemented and tested under controlled conditions. The system performed as expected, meeting the core objectives of real-time monitoring and threshold-based alerting.
